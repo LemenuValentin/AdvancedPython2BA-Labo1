@@ -1,6 +1,7 @@
 # test_utils.py
 # Author: Sébastien Combéfis
 # Version: February 2, 2016
+# cool
 
 import unittest
 import utils
